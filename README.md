@@ -1,2 +1,2 @@
 # prachand.github.io
-Persoonal webpage
+Personal webpage
